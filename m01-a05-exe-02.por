@@ -8,7 +8,11 @@ programa
 		real sal
 		escreva ("Nome do Funcionário: ")
 		leia (nome)
-		escreva("Tudo bem " +nome+ ", é um grande prazer te conhecer!")
+		escreva ("Ano de Nascimento: ")
+		leia (nasc)
+		esccreva ("Salário: R$ ")
+		leia (sal)
+		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -16,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 107; 
+ * @POSICAO-CURSOR = 216; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
