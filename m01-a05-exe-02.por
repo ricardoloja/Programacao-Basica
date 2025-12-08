@@ -15,7 +15,7 @@ programa
 		escreva ("---------- FICHA FUNCIONAL ----------")
 		escreva ("NOME: "+nome+)
 		escreva ("NASCIMENTO: "+nasc+)
-		
+		escreva ("SALÁRIO: "sal)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -23,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 327; 
+ * @POSICAO-CURSOR = 351; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
