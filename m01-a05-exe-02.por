@@ -16,6 +16,7 @@ programa
 		escreva ("NOME: "+nome+)
 		escreva ("NASCIMENTO: "+nasc+)
 		escreva ("SALÁRIO: "sal)
+		escreva ("=====================================")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -23,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 351; 
+ * @POSICAO-CURSOR = 401; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
