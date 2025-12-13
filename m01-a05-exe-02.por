@@ -12,8 +12,8 @@ programa
 		leia (nasc)
 		escreva ("Salário: R$ ")
 		leia (sal)
-		escreva ("---------- FICHA FUNCIONAL ----------")
-		escreva ("NOME: "+nome)
+		escreva ("---------- FICHA FUNCIONAL ----------\n")
+		escreva ("NOME: \n"+nome)
 		escreva ("NASCIMENTO: "+nasc)
 		escreva ("SALÁRIO: "+sal)
 		escreva ("=====================================")
@@ -24,9 +24,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 263; 
+ * @POSICAO-CURSOR = 409; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
+ * @SIMBOLOS-INSPECIONADOS = {nome, 6, 11, 4}-{nasc, 7, 10, 4}-{sal, 8, 7, 3};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
