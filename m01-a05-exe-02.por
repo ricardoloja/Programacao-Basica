@@ -13,7 +13,7 @@ programa
 		escreva ("Salário: R$ ")
 		leia (sal)
 		escreva ("---------- FICHA FUNCIONAL ----------\n")
-		escreva ("NOME: \n"+nome)
+		escreva ("NOME: "+nome+"\n")
 		escreva ("NASCIMENTO: "+nasc)
 		escreva ("SALÁRIO: "+sal)
 		escreva ("=====================================")
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 409; 
+ * @POSICAO-CURSOR = 295; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {nome, 6, 11, 4}-{nasc, 7, 10, 4}-{sal, 8, 7, 3};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
