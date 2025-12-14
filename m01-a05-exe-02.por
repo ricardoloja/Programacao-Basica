@@ -15,7 +15,7 @@ programa
 		escreva ("---------- FICHA FUNCIONAL ----------\n")
 		escreva ("NOME: "+nome+"\n")
 		escreva ("NASCIMENTO: "+nasc+"\n")
-		escreva ("SALÁRIO: "+sal+"")
+		escreva ("SALÁRIO: "+sal+"\")
 		escreva ("=====================================")
 	}
 }
